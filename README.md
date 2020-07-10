@@ -17,5 +17,5 @@ I love writing and breaking code , contributing to open-source and creating cool
  Feel free to look around my repos and do check out my portfolio website too! (www.kumaraguru.tech)
  
  
-![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
 ![Generic badge](https://img.shields.io/badge/ETHICAL-HACKER-<COLOR>.svg)
