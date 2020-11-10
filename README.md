@@ -24,4 +24,5 @@ I love writing and breaking code , contributing to open-source and creating cool
 ![](https://komarev.com/ghpvc/?username=hackyguru)
 
 ***GITHUB STATISTICS***
-[![My github stats](https://github-readme-stats.vercel.app/api?username=npc203)](https://github.com/hackyguru/)
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=hackyguru)](https://github.com/hackyguru/)
