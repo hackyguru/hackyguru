@@ -16,7 +16,7 @@ I love writing and breaking code , contributing to open-source and creating cool
  - :video_game: I love ***playing video games and football!***
  - :airplane: I love travel , food and adventure. ***I save money - I spend it on experiences!***
  
- Feel free to look around my repos and do check out my portfolio website too! (www.kumaraguru.tech)
+ Feel free to look around my repos and do check out my portfolio website too! (www.kumaraguru.me)
  
  
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
