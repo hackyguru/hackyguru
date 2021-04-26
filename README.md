@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm excited to have you at my GitHub!
 
-![Detail Portfolio : www.kumaraguru.tech](https://raw.githubusercontent.com/hackyguru/hackyguru/master/guru.PNG)
+![Detail Portfolio : www.kumaraguru.me](https://raw.githubusercontent.com/hackyguru/hackyguru/master/guru.PNG)
 
 I am ***Kumaraguru (@hackyguru)***, I am a full stack-developer , cyber security researcher and a complete tech-entreprenour!
 I love writing and breaking code , contributing to open-source and creating cool scripts and softwares...
