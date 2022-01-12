@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm excited to have you at my GitHub!
 
-![Detail Portfolio : www.kumaraguru.me](https://raw.githubusercontent.com/hackyguru/hackyguru/master/guru.PNG)
-
-I am ***Kumaraguru (@hackyguru)***, I am a full stack-developer , cyber security researcher and a complete tech-entreprenour!
+I am ***Kumaraguru (@hackyguru)***, I am a full stack web3 developer and blockchain researcher.
 I love writing and breaking code , contributing to open-source and creating cool scripts and softwares...
 
 ***ME IN A NUTSHELL***
@@ -16,7 +14,7 @@ I love writing and breaking code , contributing to open-source and creating cool
  - :video_game: I love ***playing video games and football!***
  - :airplane: I love travel , food and adventure. ***I save money - I spend it on experiences!***
  
- Feel free to look around my repos and do check out my portfolio website too! (www.kumaraguru.me)
+ Feel free to look around my repos and do check out my portfolio website too! (www.kumaraguru.tech)
  
  
 ![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)
